@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jiamingwang.net](https://jiamingwang.net)
 
-- 💬 Ask me about **Operating Systems, React, OpenGL**
+- 💬 Ask me about **Operating Systems, React, OpenGL, AI**
 
 - 📫 How to reach me **jiamingwang.net@gmail.com**
 
